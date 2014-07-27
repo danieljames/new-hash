@@ -11,8 +11,9 @@
         ],
         "description": "A TR1 hash function object that can be extended to hash user defined types.",
         "documentation": "hash/",
-        "std-proposal": false,
-        "std-tr1": true,
+        "std": [
+            "tr1"
+        ],
         "category": [
             "Function-objects"
         ]
